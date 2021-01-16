@@ -13,3 +13,5 @@
 >[Youtube channel](https://m.youtube.com/c/Princeweb)
 ## Instagram 
 > [Follow me](https://www.instagram.com/sirprincekrvert)
+
+<img src="https://github-readme-stats.vercel.app/api?username=princekrvert&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
