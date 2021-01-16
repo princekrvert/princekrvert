@@ -5,7 +5,8 @@
 ![github follower](https://img.shields.io/github/followers/princekrvert?color=%23ff0000&style=for-the-badge)
 ![twitter](https://img.shields.io/twitter/follow/PrinceK03365733?color=%23ff00bb&label=Follow%20me&style=for-the-badge)
 ***
-![videotogif_2020 11 20_21 49 05](https://user-images.githubusercontent.com/56459297/99825271-d38b6880-2b7c-11eb-95bb-66d5d465f5de.gif)
+<img src="https://github-readme-stats.vercel.app/api?username=princekrvert&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
 
 ## Youtube channel
@@ -14,4 +15,6 @@
 ## Instagram 
 > [Follow me](https://www.instagram.com/sirprincekrvert)
 
-<img src="https://github-readme-stats.vercel.app/api?username=princekrvert&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+![videotogif_2020 11 20_21 49 05](https://user-images.githubusercontent.com/56459297/99825271-d38b6880-2b7c-11eb-95bb-66d5d465f5de.gif)
+
