@@ -3,7 +3,7 @@
 ![indian](https://img.shields.io/badge/An%20-Indian-brightgreen?style=for-the-badge&logo=appveyor)
 ![SUPPORT](https://img.shields.io/badge/Support_us%20-%F0%9F%92%9F%F0%9F%92%9F-orange?style=for-the-badge&logo=appveyor)
 ![github follower](https://img.shields.io/github/followers/princekrvert?color=%23ff0000&style=for-the-badge)
-![twitter](https://img.shields.io/twitter/follow/PrinceK03365733?color=%23ff00bb&label=Follow%20me&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/princekrvert?color=%23ff0000&label=%40princekrvert&style=for-the-badge)
 ***
 <img src="https://github-readme-stats.vercel.app/api?username=princekrvert&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
