@@ -11,7 +11,7 @@
 
 ## Youtube channel
 
->[Youtube channel](https://m.youtube.com/c/Princeweb)
+>[Youtube channel](https://youtube.com/channel/UCiplAqC9AwtGGxXU3WQy8pw)
 ## Instagram 
 > [Follow me](https://www.instagram.com/sirprincekrvert)
 
