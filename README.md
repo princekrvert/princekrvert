@@ -3,7 +3,7 @@
 ![indian](https://img.shields.io/badge/An%20-Indian-brightgreen?style=for-the-badge&logo=appveyor)
 ![SUPPORT](https://img.shields.io/badge/Support_us%20-%F0%9F%92%9F%F0%9F%92%9F-orange?style=for-the-badge&logo=appveyor)
 ![github follower](https://img.shields.io/github/followers/princekrvert?color=%23ff0000&style=for-the-badge)
- <a href="https://www.instagram.com/sirprincekrvert/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.instagram.com/princekrvert/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://m.twitter.com/princekrvert" > <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
 
 ***
