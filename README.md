@@ -22,5 +22,5 @@
 <a href="https://www.facebook.com/princekrvert" > <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ></a>
 
 
-![videotogif_2020 11 20_21 49 05](https://user-images.githubusercontent.com/56459297/99825271-d38b6880-2b7c-11eb-95bb-66d5d465f5de.gif)
+
 
