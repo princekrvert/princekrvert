@@ -8,7 +8,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekrvert&show_icons=true&theme=radical" >
 
-< a href="https://github.com/princekrvert/princekrvert" ><img src="https://komarev.com/ghpvc/?username=princekrvert&color=blueviolet&style=flat-square" ></a>
+<a href="https://github.com/princekrvert/princekrvert" ><img src="https://komarev.com/ghpvc/?username=princekrvert&color=blueviolet&style=flat-square" ></a>
 
 
  
